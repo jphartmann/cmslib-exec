@@ -1,6 +1,8 @@
 # cmslib-exec
 Libraries and executables for CMS to run cross compiled code.
 
+`zlib.txtlib` contains unmodified `zlib-1.2.8`.
+
 All files except the pdf and tar should be uploaded binary fixed 80.
 
 Libraries should be used as is.
